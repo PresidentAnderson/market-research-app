@@ -139,7 +139,7 @@ export default async function HomePage() {
             </p>
           </Link>
           <Link
-            href="/docs"
+            href="/documentation"
             className="rounded-lg border bg-card p-6 transition-all hover:shadow-md"
           >
             <h3 className="font-semibold">Documentation</h3>
